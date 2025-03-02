@@ -4,7 +4,7 @@ This is a simple NodeJS + Express + React + MongoDB application. This applicatio
 
 What does this application do?
 -------------------------------
-This application serves a simple MERN based TODO application to demonstrate the use of MERN stack. This application uses following technologies:
+This application serves a simple MERN based a application to demonstrate the use of MERN stack. This application uses following technologies:
 - MongoDB: used as database
 - Express: used as web application framework
 - React: used as frontend framework to build UI
@@ -20,10 +20,6 @@ Before running the application, make sure all dependencies are installed.
 
 2. Run following command to start both server and client:
    > `npm run dev`
-
-3. Refresh the URL in simple browser to see the output. As shown below
-   ![](https://static.onecompiler.com/images/posts/3zzkbysj7/mern-reload.png)
-
 
 
 ## FAQs & Debugging
@@ -43,3 +39,7 @@ Before running the application, make sure all dependencies are installed.
    `npm run dev` starts both server and client. If you want to start them separately, you can use following commands:
    - `npm run server`: to start server
    - `npm run client`: to start client
+   - 
+## Project Demo
+![image](https://github.com/user-attachments/assets/02ecc016-0f08-4f2f-aa2e-0be36dd5b3d0)
+
